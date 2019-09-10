@@ -8,6 +8,8 @@
 
     Dim number As Decimal
 
+    Dim engel As String
+
     Private Sub Button17_Click(sender As Object, e As EventArgs) Handles Button17.Click
         'Enter
         If operation = "plus" Then
@@ -38,7 +40,8 @@
     Private Sub Button16_Click(sender As Object, e As EventArgs) Handles Button16.Click
         number = 0
         TextBox1.Text = CStr(number)
-        firstNumber = secondNumber = 0
+        firstNumber = 0
+        secondNumber = 0
         which = 1
     End Sub
 

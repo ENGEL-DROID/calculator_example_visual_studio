@@ -1,0 +1,3 @@
+C:\Users\ENGEL - CHUWI\Desktop\DAM 2\DESARROLLO DE INTERFACES\EJERCICIOS EN CLASE\CalculatorGitHub\obj\Debug\FancyCalculator.vbproj.AssemblyReference.cache
+C:\Users\ENGEL - CHUWI\Desktop\DAM 2\DESARROLLO DE INTERFACES\EJERCICIOS EN CLASE\CalculatorGitHub\obj\Debug\FancyCalculator.FancyCalculator.resources
+C:\Users\ENGEL - CHUWI\Desktop\DAM 2\DESARROLLO DE INTERFACES\EJERCICIOS EN CLASE\CalculatorGitHub\obj\Debug\FancyCalculator.vbproj.GenerateResource.cache
